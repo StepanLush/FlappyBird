@@ -6,7 +6,7 @@ function moveUp() {
  fly.play();
 }
 
-var score = 0
+var score = 0;
 // Позиция птички
 var xPos = 10;
 var yPos = 150;
